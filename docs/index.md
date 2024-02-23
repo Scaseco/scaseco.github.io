@@ -31,6 +31,7 @@ Welcome to the GitHub Organization *Scaseco* - scalable semantic components.
 
 ## Applications
 
-* [Facete3](https://github.com/Scaseco/facete3) A SPARQL-based Faceted Search Application built upon the Java Vaadin framework.
+* [RDF Processing Toolkit](https://github.com/SmartDataAnalytics/RdfProcessingToolkit): A CLI tool that can also act as a platform for SPARQL-based RDF processing. Ships with an embedded server that can supply SPARQL and GraphQL endpoints. Can also process RML. GraphQL and RML are internally processed as SPARQL statements.
+* [Facete3](https://github.com/Scaseco/facete3): A SPARQL-based Faceted Search Application built upon the Java Vaadin framework.
 
 
