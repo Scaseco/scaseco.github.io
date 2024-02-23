@@ -12,7 +12,7 @@ Welcome to the GitHub Organization *Scaseco* - scalable semantic components.
 
 * [aksw-commons](https://github.com/SmartDataAnalytics/aksw-commons): A utility belt for things not covered by apache-commons, guava and commons-collections.
 * [JenaX](https://github.com/Scaseco/jenax): A project with many unofficial extensions for the [Apache Jena](https://github.com/apache/jena/) Semantic Web framework.
-* [r2rml-api-jena](https://github.com/Scaseco/r2rml-api-jena): A RML and R2RML toolkit. Can translate RML and R2RLM to extended SPARQL queries that can be executed with the JenaX SPARQL extensions. This approach enables algebra optimization and reuse of SPARQL extensions.
+* [r2rml-api-jena](https://github.com/Scaseco/r2rml-api-jena): A RML and R2RML toolkit. Can translate RML and R2RML to extended SPARQL queries that can be executed with the JenaX SPARQL extensions. This approach enables algebra optimization and reuse of SPARQL extensions.
 * [hadoop-parser-framework](https://github.com/Scaseco/hadoop-parser-framework): This hadoop/spark project should eventually receive the IO layer of [SANSA](https://github.com/SANSA-Stack/SANSA-Stack).
 
 
