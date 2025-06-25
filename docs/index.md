@@ -24,8 +24,10 @@ Welcome to the GitHub Organization *Scaseco* - scalable semantic components.
 ## Maven-based Data Management
 
 * [maven4data](https://scaseco.github.io/maven4data/): A website explaining how to adapt the Apache Maven build system for generating, transforming, packaging and deploying data artifacts.
-* [sparql-maven-plugin](https://github.com/Scaseco/sparql-maven-plugin): A maven plugin to create or update resources with SPARQL queries.
+* [tdb2-maven-plugin](https://github.com/Scaseco/ckan-maven-plugin): A native Java maven plugin to package data as a Apache Jena TDB2 database.
+* [qlever-maven-plugin](https://github.com/Scaseco/ckan-maven-plugin): A maven plugin to package data as a [QLever](https://github.com/ad-freiburg/qlever) database. Requires docker to run a qlever container.
 * [ckan-maven-plugin](https://github.com/Scaseco/ckan-maven-plugin): A maven plugin to deploy artifacts to CKAN instances.
+* [sparql-maven-plugin](https://github.com/Scaseco/sparql-maven-plugin): A maven plugin to create or update resources with SPARQL queries.
 * [mvn-rdf-sync](https://github.com/Scaseco/mvn-rdf-sync): CLI and docker setup to detect changes to a Maven repository and trigger generation and publishing of metadata artifacts. For example, an upload of an RDF dataset may automatically trigger DCAT, VoID and PROV-O generation.
 
 
