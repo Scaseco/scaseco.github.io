@@ -8,6 +8,7 @@ nav_order: 10
 
 Welcome to the GitHub Organization *Scaseco* - scalable semantic components.
 
+
 ## Libraries
 
 * [aksw-commons](https://github.com/SmartDataAnalytics/aksw-commons): A utility belt for things not covered by apache-commons, guava and commons-collections.
@@ -21,11 +22,12 @@ Welcome to the GitHub Organization *Scaseco* - scalable semantic components.
 * [vaadin-yasqe](https://github.com/Scaseco/vaadin-yasqe): Vaadin bindings for the popular *Yet Another Sparql Query Editor* (YASQE) widget.
 * [vaadin-jena](https://github.com/Scaseco/vaadin-jena): Components and utilities for bridging Vaadin and Jena. Examples include: SPARQL-backed grid views, SPARQL-based label retrieval and visualization of spatial RDF literals (e.g. GeoSPARQL) on a leaflet map.
 
+
 ## Maven-based Data Management
 
 * [maven4data](https://scaseco.github.io/maven4data/): A website explaining how to adapt the Apache Maven build system for generating, transforming, packaging and deploying data artifacts.
-* [tdb2-maven-plugin](https://github.com/Scaseco/ckan-maven-plugin): A native Java maven plugin to package data as a Apache Jena TDB2 database.
-* [qlever-maven-plugin](https://github.com/Scaseco/ckan-maven-plugin): A maven plugin to package data as a [QLever](https://github.com/ad-freiburg/qlever) database. Requires docker to run a qlever container.
+* [tdb2-maven-plugin](https://github.com/Scaseco/tdb2-maven-plugin): A native Java maven plugin to package data as a Apache Jena TDB2 database.
+* [qlever-maven-plugin](https://github.com/Scaseco/qlever-maven-plugin): A maven plugin to package data as a [QLever](https://github.com/ad-freiburg/qlever) database. Requires docker to run a qlever container.
 * [ckan-maven-plugin](https://github.com/Scaseco/ckan-maven-plugin): A maven plugin to deploy artifacts to CKAN instances.
 * [sparql-maven-plugin](https://github.com/Scaseco/sparql-maven-plugin): A maven plugin to create or update resources with SPARQL queries.
 * [mvn-rdf-sync](https://github.com/Scaseco/mvn-rdf-sync): CLI and docker setup to detect changes to a Maven repository and trigger generation and publishing of metadata artifacts. For example, an upload of an RDF dataset may automatically trigger DCAT, VoID and PROV-O generation.
@@ -35,5 +37,4 @@ Welcome to the GitHub Organization *Scaseco* - scalable semantic components.
 
 * [RDF Processing Toolkit](https://github.com/SmartDataAnalytics/RdfProcessingToolkit): A CLI tool that can also act as a platform for SPARQL-based RDF processing. Ships with an embedded server that can supply SPARQL and GraphQL endpoints. Can also process RML. GraphQL and RML are internally processed as SPARQL statements.
 * [Facete3](https://github.com/Scaseco/facete3): A SPARQL-based Faceted Search Application built upon the Java Vaadin framework.
-
 
